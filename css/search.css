@@ -39,6 +39,7 @@
     section.perfume{text-align:center;}
     section.perfume>ul{padding:27px 5.333333333333333% 10px;}
     section.perfume>ul>li{width:50%;float:left;}
+    section.perfume>ul>li>img{cursor: pointer;}
     section.perfume>ul>li>p.name{font-family: 'Noto Serif KR', serif;font-size:15px;font-weight:bold;color:#75786d;padding-top:5px;}
     section.perfume>ul>li>p.kname{font-family: 'Noto Serif KR', serif;font-size:12px;font-weight:bold;color:#20231c;padding-bottom:8px;}
 
